@@ -1,3 +1,4 @@
+#This code is for polynomial regression
 Input = ("
 Length  Clutch
 284      3  
